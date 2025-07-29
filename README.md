@@ -1,79 +1,70 @@
 <div align="center">
-<h1 align="center">Hello Everybody! I am Octavio Landa</a> 👋</h1>
+
+<img src="https://github.com/user-attachments/assets/998ee8c5-9c32-4c14-a08c-6afc6a1266ae">
+
+# ¡Hola! Soy Octavio Landa Verde 👋
+
+
+**Analista de Datos con una Visión Estratégica Forjada en Más de una Década de Rigor en el Sector Público.**
+
+
+¡Bienvenido/a a mi portfolio de proyectos de Ciencia y Análisis de Datos! Estoy en plena efervescencia de mi transición profesional, impulsado por una misión clara: transformar la complejidad de los datos en claridad accionable y valor de negocio tangible.
 </div>
-<img src="![github_background](https://github.com/user-attachments/assets/998ee8c5-9c32-4c14-a08c-6afc6a1266ae)">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub](https://img.shields.io/github/followers/octavioGH25?style=social)](https://github.com/octavioGH25)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## Sobre mi
+### 🚀 **Mi Propuesta de Valor Única**
 
-- 🔍💼📊💡🔎⌨️🪪📱🎬📡🎥📺🪙💰 Github Star ⭐ 
-- 💻 Data Analyst 💾💿💽📽️
-- 🖥️ Transform 
-<br>
+Mi trayectoria profesional es una potente fusión de precisión financiera, visión estratégica y una profunda pasión por el impacto que los datos pueden generar. Proveniente de una sólida carrera en el sector público, estoy catalizando mi camino hacia el análisis de datos, donde mi compromiso es guiar decisiones estratégicas ancladas firmemente en la verdad de los datos.
 
-<br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+Como Analista de Datos en formación (Bootcamp intensivo en Triple Ten LATAM casi concluido), no solo desvelo insights, sino que me dedico a **narrar historias convincentes con los datos**, fusionando el rigor analítico con un agudo acumen de negocio. Estoy aquí para eficientar, simplificar y mejorar procesos, coadyuvando en la toma de decisiones estratégicas que generen un éxito tangible y un impacto significativo.
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>       
+---
 
-<td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
+### 🛠️ **Mi Ecosistema de Habilidades**
 
-### ⚙️ &nbsp;GitHub Analytics
+Dominio de herramientas y técnicas clave para la transformación de datos:
 
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+* **Programación:** Python (con librerías como Pandas, NumPy, Scikit-learn para manipulación y análisis de datos).
+* **Bases de Datos:** SQL para la extracción, consulta y gestión de datos.
+* **Visualización:** Power BI y Tableau para crear dashboards intuitivos y reportes impactantes.
+* **Hojas de Cálculo:** Excel para análisis y modelado de datos.
+* **Otras Herramientas/Conceptos:** (Puedes añadir aquí si usas Git, conceptos de estadística, A/B testing, etc.)
+
+---
+
+### ✨ **Proyectos Recientes**
+
+Explora mi trabajo más reciente donde aplico mis habilidades para resolver desafíos reales:
+
+* [**Nombre del Proyecto 1**](https://github.com/octavioGH25/project7): Breve descripción (ej. Análisis de ventas para optimizar inventario).
+* [**Nombre del Proyecto 2**](link-a-tu-proyecto-2): Breve descripción (ej. Predicción de clientes en riesgo de abandono).
+* [**Nombre del Proyecto 3**](link-a-tu-proyecto-3): Breve descripción (ej. Limpieza y preparación de datos para un dataset complejo).
+* *(Añade más proyectos aquí, con enlaces a sus respectivos repositorios o Jupyter Notebooks)*
+
+---
+
+### 🎯 **Fundamentos de una Carrera Orientada al Impacto**
+
+Mi recorrido profesional me ha dotado de habilidades transferibles invaluables:
+
+* **IMSS (Más de una década):**
+    * **Coordinador de Contabilidad (Jefatura de Finanzas):** Gestión y análisis del control de bienes capitalizables, con un historial probado de eficientar y simplificar operaciones críticas.
+    * **Controlador de Incidencias (Hospital #11, Xalapa, 8 años):** Perfeccionamiento de la atención al detalle, la precisión y la optimización de procesos, resultando en cero quejas y una confianza sólida.
+* **Experiencia como Freelancer:** Sólida base tecnológica en diseño gráfico y multimedia (Flash, JavaScript, HTML, CSS, suite Adobe), que cultivó mi pensamiento visual y una agilidad excepcional para la adaptación digital.
+
+---
+
+### 🎓 **Mi Reinicio Estratégico y Compromiso**
+
+Actualmente, combino una **Licenciatura en Contaduría Pública (en curso)** con un **bootcamp intensivo de Data Analyst en Triple Ten LATAM (casi concluido)**. Esta doble formación me confiere un perfil único: un puente robusto entre la rigurosidad contable/financiera y las habilidades de análisis y visualización de datos de vanguardia.
+
+Soy una persona meticulosa, proactiva y apasionada por superar expectativas. Mi objetivo constante es entregar soluciones basadas en datos que impulsen el crecimiento y la innovación.
+
+---
+
+### 🤝 **Conectemos**
+
+Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-landa-verde/)
+* [![Hotmail](https://img.shields.io/badge/email-Hotmail-blue.svg)](mailto:octaviolanda@hotmail.com)
