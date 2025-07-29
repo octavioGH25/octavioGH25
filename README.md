@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello Everybody! I am Octavio Landa</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="![github_background](https://github.com/user-attachments/assets/998ee8c5-9c32-4c14-a08c-6afc6a1266ae)">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
