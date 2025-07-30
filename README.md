@@ -27,7 +27,6 @@ Mastery of key tools and techniques for data transformation:
 * **Databases:** SQL for data extraction, querying, and management.
 * **Visualization:** Power BI and Tableau for creating intuitive dashboards and impactful reports.
 * **Spreadsheets:** Excel for data analysis and modeling.
-* **Other Tools/Concepts:** (You can add here if you use Git, statistical concepts, A/B testing, etc.)
 
 ---
 
@@ -94,7 +93,6 @@ Dominio de herramientas y técnicas clave para la transformación de datos:
 * **Bases de Datos:** SQL para la extracción, consulta y gestión de datos.
 * **Visualización:** Power BI y Tableau para crear dashboards intuitivos y reportes impactantes.
 * **Hojas de Cálculo:** Excel para análisis y modelado de datos.
-* **Otras Herramientas/Conceptos:** (Puedes añadir aquí si usas Git, conceptos de estadística, A/B testing, etc.)
 
 ---
 
