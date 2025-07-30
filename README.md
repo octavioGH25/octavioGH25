@@ -4,7 +4,7 @@
 
 # Hello Everyone! 👋
 
-**Data Analyst with a Strategic Vision Forged Over a Decade of Rigor in the Public Sector.**
+**Data Analyst with a Strategic Vision Forged Over a Decade of Rigor in the Public Sector, focused on leveraging data to drive impactful business decisions and foster innovation.**
 
 Welcome to my Data Science and Analytics project portfolio! I'm actively engaged in my professional transition, driven by a clear mission: to transform data complexity into actionable clarity and tangible business value.
 </div>
@@ -70,7 +70,7 @@ I am always open to new opportunities and collaborations. Feel free to reach out
    
 # Hola a tod@s! 👋
 
-**Analista de Datos con una Visión Estratégica Forjada en Más de una Década de Rigor en el Sector Público.**
+**Analista de Datos con una Visión Estratégica Forjada en Más de una Década de Rigor en el Sector Público, enfocado en aprovechar los datos para impulsar decisiones de negocio impactantes y fomentar la innovación.**
 
 ¡Bienvenido/a a mi portafolio de proyectos de Ciencia y Análisis de Datos! Estoy en plena efervescencia de mi transición profesional, impulsado por una misión clara: transformar la complejidad de los datos en claridad accionable y valor de negocio tangible.
 </div>
