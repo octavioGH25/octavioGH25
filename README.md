@@ -35,6 +35,8 @@ Mastery of key tools and techniques for data transformation:
 Explore my latest work where I apply my skills to solve real challenges:
 
 * [**Project 7**](https://github.com/octavioGH25/project7): (Car Advertisement Data Analysis).
+  
+* [**TripleTen Projects Portfolio**](https://github.com/octavioGH25/TripleTen): (Collection of data analysis projects from the TripleTen Data Analyst bootcamp).
 
 ---
 
@@ -67,7 +69,7 @@ I am always open to new opportunities and collaborations. Feel free to reach out
 ---
 
 <div align="center">
-   
+
 # Hola a tod@s! 👋
 
 **Analista de Datos con una Visión Estratégica Forjada en Más de una Década de Rigor en el Sector Público, enfocado en aprovechar los datos para impulsar decisiones de negocio impactantes y fomentar la innovación.**
@@ -101,6 +103,8 @@ Dominio de herramientas y técnicas clave para la transformación de datos:
 Explora mi trabajo más reciente donde aplico mis habilidades para resolver desafíos reales:
 
 * [**Proyecto 7**](https://github.com/octavioGH25/project7): (Análisis de Datos de Anuncios de Venta de Coches).
+  
+* [**Portafolio de Proyectos TripleTen**](https://github.com/octavioGH25/TripleTen): (Colección de proyectos del bootcamp de Analista de Datos de TripleTen).
 
 ---
 
