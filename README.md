@@ -49,7 +49,7 @@ Estoy abierto a oportunidades y colaboraciones donde pueda aplicar rigor financi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Octavio_Landa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/octaviolanda/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Octavio_Landa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/octavio-landa-verde/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=microsoftoutlook)](mailto:octaviolv1320@outlook.com)
 
