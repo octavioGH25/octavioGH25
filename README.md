@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/octavioGH25/octavioGH25/blob/main/banner_perfil.png?raw=true" width="100%" alt="Banner de Octavio Landa">
-  </div>
+  <img src="https://raw.githubusercontent.com/octavioGH25/octavioGH25/main/banner_perfil.png" width="100%" alt="Banner de Octavio Landa">
+</div>
 
 # Octavio Landa Verde
 ### 📊 Analista de Datos | Especialista en Inteligencia Financiera y Sector Público
@@ -14,7 +14,7 @@ Cuento con una trayectoria sólida de **10+ años en el sector público (IMSS)**
 
 Combino la disciplina del **Control Interno** con la potencia de **Python y SQL** para detectar riesgos, optimizar presupuestos y automatizar auditorías masivas.
 
-* 🔭 **Enfoque actual:** Auditoría algorítmica de activos, detección de anomalías financieras y Dashboards ejecutivos.
+* 🔭 **Enfoque actual:** Auditoría algorítmica de activos, pruebas de hipótesis estadísticas y Dashboards ejecutivos.
 * 🎓 **Formación:** Licenciatura en Contaduría (En curso) + Data Analytics Bootcamp (TripleTen).
 * 📍 **Ubicación:** Coatepec, Veracruz, México.
 
@@ -38,14 +38,14 @@ A continuación, presento casos de uso reales donde aplico ciencia de datos a pr
 | Proyecto | Tipo de Análisis | Impacto y Resultados Clave | Stack |
 | :--- | :--- | :--- | :---: |
 | **1. [Auditoría Patrimonial y Riesgo Financiero](https://github.com/octavioGH25/Auditoria-Activos-Financieros)** | 🛡️ **Auditoría / Finanzas** <br> *Control Interno* | • Auditoría masiva de **50,000 activos**.<br>• Validación de **$1,615 MDP** en activos vigentes.<br>• Detección de **$671 MDP** en riesgo de obsolescencia. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
-| **2. [Análisis de Mercado Automotriz](https://github.com/octavioGH25/project7)** | 🚗 **Mercado / EDA** <br> *Precios & Tendencias* | • Limpieza de datos atípicos en ventas de vehículos.<br>• Identificación de correlaciones clave para fijación de precios competitivos.<br>• Generación de insights para la toma de decisiones comerciales. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c) |
-| **3. [Detección de Fraudes Financieros](https://github.com/octavioGH25)** | 🕵️‍♂️ **Seguridad / ML** <br> *Próximamente* | • *En desarrollo:* Algoritmo para la identificación de patrones anómalos en transacciones bancarias y prevención de pérdidas. | ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) <br> ![Python](https://img.shields.io/badge/-ML-orange) |
+| **2. [Eficiencia Operativa en Telecomunicaciones](https://github.com/octavioGH25/Analisis-Eficiencia-Telecom)** | 📞 **Operaciones / BI** <br> *KPIs & Estadística* | • Análisis de **53k registros** de llamadas.<br>• Detección de operadores ineficaces mediante **Pruebas de Hipótesis (Mann-Whitney)**.<br>• Dashboard interactivo en Tableau. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) |
+| **3. [Análisis de Mercado Automotriz](https://github.com/octavioGH25/project7)** | 🚗 **Mercado / EDA** <br> *Precios & Tendencias* | • Limpieza de datos atípicos en ventas de vehículos.<br>• Identificación de correlaciones clave para fijación de precios competitivos.<br>• Generación de insights para la toma de decisiones comerciales. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat) |
 
 ---
 
-## 📈 Métricas de Actividad
+## 💻 Lenguajes Más Usados
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=octavioGH25&show_icons=true&theme=radical&locale=es&hide_border=true" alt="Estadísticas GitHub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octavioGH25&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
 </div>
 
 ---
