@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/octavioGH25/octavioGH25/main/banner_perfil.png" width="100%" alt="Banner de Octavio Landa">
+  <img src="https://raw.githubusercontent.com/octavioGH25/octavioGH25/main/banner_perfil.png" width="100%" alt="Banner Octavio Landa">
 </div>
 
 # Octavio Landa Verde
@@ -20,12 +20,13 @@ Combino la disciplina del **Control Interno** con la potencia de **Python y SQL*
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Arsenal Tecnológico
+
 <div align="center">
 
-| Análisis & Lógica | Bases de Datos | Visualización BI | Herramientas |
+| **Lenguajes de Programación** | **Ciencia de Datos & Análisis** | **Business Intelligence (BI)** | **Infraestructura & Herramientas** |
 | :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-Analítica-150458?style=flat&logo=pandas&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-Postgres-336791?style=flat&logo=postgresql&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-BI-E97627?style=flat&logo=tableau&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-Viz-11557c?style=flat) | ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat&logo=visual-studio-code&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-Control-F05032?style=flat&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br> ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) <br> ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) <br> ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 </div>
 
@@ -43,12 +44,6 @@ A continuación, presento casos de uso reales donde aplico ciencia de datos a pr
 
 ---
 
-## 💻 Lenguajes Más Usados
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octavioGH25&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
-</div>
-
----
 ### 📫 Contacto Profesional
 Estoy abierto a oportunidades y colaboraciones donde pueda aplicar rigor financiero y ciencia de datos.
 
