@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/octavioGH25/octavioGH25/main/banner_perfil.png" width="100%" alt="Banner Octavio Landa">
+  <img src="https://raw.githubusercontent.com/octavioGH25/octavioGH25/main/banner_perfil.png" width="100%" alt="Banner de Octavio Landa">
 </div>
 
 # Octavio Landa Verde
