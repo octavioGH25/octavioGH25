@@ -14,7 +14,7 @@ Cuento con una trayectoria sólida de **10+ años en el sector público (IMSS)**
 
 Combino la disciplina del **Control Interno** con la potencia de **Python y SQL** para detectar riesgos, optimizar presupuestos y automatizar auditorías masivas.
 
-* 🔭 **Enfoque actual:** Auditoría algorítmica de activos, pruebas de hipótesis estadísticas y Dashboards ejecutivos.
+* 🔭 **Enfoque actual:** Auditoría algorítmica de activos, detección de fraudes con ML y Ciberseguridad.
 * 🎓 **Formación:** Licenciatura en Contaduría (En curso) + Data Analytics Bootcamp (TripleTen).
 * 📍 **Ubicación:** Coatepec, Veracruz, México.
 
@@ -41,6 +41,7 @@ A continuación, presento casos de uso reales donde aplico ciencia de datos a pr
 | **1. [Auditoría Patrimonial y Riesgo Financiero](https://github.com/octavioGH25/Auditoria_de_Activos)** | 🛡️ **Auditoría / Finanzas** <br> *Control Interno* | • Auditoría masiva de **50,000 activos**.<br>• Validación de **$1,615 MDP** en activos vigentes.<br>• Detección de **$671 MDP** en riesgo de obsolescencia. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
 | **2. [Eficiencia Operativa en Telecomunicaciones](https://github.com/octavioGH25/Analisis-Eficiencia-Telecom)** | 📞 **Operaciones / BI** <br> *KPIs & Estadística* | • Análisis de **53k registros** de llamadas.<br>• Detección de operadores ineficaces mediante **Pruebas de Hipótesis (Mann-Whitney)**.<br>• Dashboard interactivo en Tableau. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) |
 | **3. [Análisis de Mercado Automotriz](https://github.com/octavioGH25/project7)** | 🚗 **Mercado / EDA** <br> *Precios & Tendencias* | • Limpieza de datos atípicos en ventas de vehículos.<br>• Identificación de correlaciones clave para fijación de precios competitivos.<br>• Generación de insights para la toma de decisiones comerciales. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat) |
+| **4. [Detección de Fraude Financiero con IA](https://github.com/octavioGH25/Deteccion-Fraude-Financiero)** | 🔐 **Ciberseguridad / ML** <br> *Auditoría Forense* | • Auditoría automatizada de **56,000+ transacciones**.<br>• Detección de **80 fraudes** con **88% de precisión** (Random Forest).<br>• Reducción de horas de revisión manual (Eficiencia). | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white) |
 
 ---
 
