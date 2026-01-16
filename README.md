@@ -1,57 +1,61 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/octavioGH25/octavioGH25/main/banner_perfil.png" width="100%" alt="Banner de Octavio Landa">
+  <img src="https://raw.githubusercontent.com/octavioGH25/octavioGH25/main/banner_perfil.png" width="100%" alt="Banner Octavio Landa Verde">
 </div>
 
-# Octavio Landa Verde
-### 📊 Analista de Datos | Especialista en Inteligencia Financiera y Sector Público
+# OCTAVIO LANDA VERDE
+### Analista de Seguridad de Información e Infraestructura | Estratega en Integridad de Datos
 
-> *"Transformando la complejidad administrativa en certeza operativa mediante el análisis de datos."*
-
----
-
-## 👨‍💻 Perfil Profesional
-Cuento con una trayectoria sólida de **10+ años en el sector público (IMSS)**, gestionando áreas críticas de Recursos Humanos y Contabilidad. Mi perfil no es el de un programador tradicional; soy un **estratega financiero** que domina la programación para resolver problemas de negocio complejos.
-
-Combino la disciplina del **Control Interno** con la potencia de **Python y SQL** para detectar riesgos, optimizar presupuestos y automatizar auditorías masivas.
-
-* 🔭 **Enfoque actual:** Auditoría algorítmica de activos, detección de fraudes con ML y Ciberseguridad.
-* 🎓 **Formación:** Licenciatura en Contaduría (En curso) + Data Analytics Bootcamp (TripleTen).
-* 📍 **Ubicación:** Coatepec, Veracruz, México.
+> "La ética es el algoritmo fundamental de la civilización; la transparencia, su validación matemática."
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## › PERFIL PROFESIONAL Y ESTRATÉGICO
+Estratega con 13 años de trayectoria en gestión fiduciaria y supervisión normativa en el sector público. Mi práctica profesional se rige por la **ética inquebrantable y la transparencia radical**, valores indispensables para la gobernanza de sistemas y la protección de activos institucionales.
 
-<div align="center">
+Especializado en la transformación de la complejidad operativa en modelos de **certeza estadística**, mi enfoque se centra en la **Auditoría de Sistemas e Integridad de Datos**. Utilizo la tecnología como un mecanismo de defensa preventiva contra el riesgo sistémico y la asimetría de información.
 
-| **Lenguajes de Programación** | **Ciencia de Datos & Análisis** | **Business Intelligence (BI)** | **Infraestructura & Herramientas** |
-| :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br> ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) <br> ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) <br> ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br> ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
-
-</div>
+**› FORMACIÓN ACADÉMICA Y CERTIFICACIONES**
+• **Licenciatura en Contaduría Pública** | Cursando (Nivel intermedio).
+• **Centro Público de Formación en IA** | Certificaciones en Ciberseguridad.
+• **Especialización en Data Analytics** | TripleTen (Concluido Octubre 2025).
 
 ---
 
-## 🚀 Portafolio Estratégico de Proyectos
+## › TECNOLOGÍAS
 
-A continuación, presento casos de uso reales donde aplico ciencia de datos a problemas de negocio:
+### INFRAESTRUCTURA DE SEGURIDAD (BLUE TEAM)
+| Protección e Integridad | Análisis y Visualización | Automatización |
+| :--- | :--- | :--- |
+| ![Security](https://img.shields.io/badge/Security-Blue_Team-0052FF?style=for-the-badge) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) |
+| ![Compliance](https://img.shields.io/badge/Compliance-Audit-2EA043?style=for-the-badge) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![Integrity](https://img.shields.io/badge/Data-Integrity-grey?style=for-the-badge) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
 
-| Proyecto | Tipo de Análisis | Impacto y Resultados Clave | Stack |
+---
+
+## › PORTAFOLIO DE ESPECIALIZACIÓN
+*Proyectos de autoría propia enfocados en la arquitectura de datos seguros y transparencia financiera.*
+
+| Proyecto | Áreas de Valor | Resultados Clave | Repositorio |
 | :--- | :--- | :--- | :---: |
-| **1. [Auditoría Patrimonial y Riesgo Financiero](https://github.com/octavioGH25/Auditoria_de_Activos)** | 🛡️ **Auditoría / Finanzas** <br> *Control Interno* | • Auditoría masiva de **50,000 activos**.<br>• Validación de **$1,615 MDP** en activos vigentes.<br>• Detección de **$671 MDP** en riesgo de obsolescencia. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
-| **2. [Eficiencia Operativa en Telecomunicaciones](https://github.com/octavioGH25/Analisis-Eficiencia-Telecom)** | 📞 **Operaciones / BI** <br> *KPIs & Estadística* | • Análisis de **53k registros** de llamadas.<br>• Detección de operadores ineficaces mediante **Pruebas de Hipótesis (Mann-Whitney)**.<br>• Dashboard interactivo en Tableau. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) |
-| **3. [Análisis de Mercado Automotriz](https://github.com/octavioGH25/project7)** | 🚗 **Mercado / EDA** <br> *Precios & Tendencias* | • Limpieza de datos atípicos en ventas de vehículos.<br>• Identificación de correlaciones clave para fijación de precios competitivos.<br>• Generación de insights para la toma de decisiones comerciales. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat) |
-| **4. [Detección de Fraude Financiero con IA](https://github.com/octavioGH25/Deteccion-Fraude-Financiero)** | 🔐 **Ciberseguridad / ML** <br> *Auditoría Forense* | • Auditoría automatizada de **56,000+ transacciones**.<br>• Detección de **80 fraudes** con **88% de precisión** (Random Forest).<br>• Reducción de horas de revisión manual (Eficiencia). | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white) |
+| **Auditoría Patrimonial** | Integridad de Activos | Validación de **$1,615 MDP** en activos vigentes. | [Acceder](https://github.com/octavioGH25/Auditoria_de_Activos) |
+| **Detección de Fraude** | Seguridad Financiera | Auditoría de **56,000+ transacciones** mediante IA. | [Acceder](https://github.com/octavioGH25/Deteccion-Fraude-Financiero) |
+
+› **REGISTRO ACADÉMICO:** Para consultar el desglose técnico de mi formación, visite mi [Repositorio de Formación Académica (14 Proyectos)](#).
 
 ---
 
-### 📫 Contacto Profesional
-Estoy abierto a oportunidades y colaboraciones donde pueda aplicar rigor financiero y ciencia de datos.
+## › SABIDURÍA ANCESTRAL - EL CONOCIMIENTO ES LIBERTAD
 
-<div align="center">
+> "El conocimiento es el alimento del espíritu; la ignorancia es el hambre que lo detiene."  
+> — *Sabiduría del Antiguo Egipto.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Octavio_Landa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/octavio-landa-verde/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=microsoftoutlook)](mailto:octaviolv1320@outlook.com)
+> "In ixtli, in yollotl: Darle sabiduría al rostro y firmeza al corazón."  
+> — *Tradición Azteca.*
 
-</div>
+> "Aprender sin reflexionar es malgastar la energía; reflexionar sin aprender es peligroso."  
+> — *Confucio.*
+
+---
+
+### › CONTACTO PROFESIONAL
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Octavio_Landa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/octavio-landa-verde/) [![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=microsoftoutlook)](mailto:octaviolv1320@outlook.com)
