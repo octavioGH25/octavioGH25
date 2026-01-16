@@ -58,4 +58,4 @@ Especializado en la transformación de la complejidad operativa en modelos de **
 ---
 
 ### › CONTACTO PROFESIONAL
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Octavio_Landa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/octavio-landa-verde/) [![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=microsoftoutlook)](mailto:octaviolv1320@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Octavio_Landa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/octaviolanda/) [![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=microsoftoutlook)](mailto:octaviolv1320@outlook.com)
