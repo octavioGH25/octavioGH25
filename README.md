@@ -40,7 +40,12 @@ Especializado en la transformación de la complejidad operativa en modelos de **
 | **Auditoría Patrimonial** | Integridad de Activos | Validación de **$1,615 MDP** en activos vigentes. | [Acceder](https://github.com/octavioGH25/Auditoria_de_Activos) |
 | **Detección de Fraude** | Seguridad Financiera | Auditoría de **56,000+ transacciones** mediante IA. | [Acceder](https://github.com/octavioGH25/Deteccion-Fraude-Financiero) |
 
-› **REGISTRO ACADÉMICO:** Para consultar el desglose técnico de mi formación, visite mi [**Repositorio de Especialización TripleTen (16 Proyectos)**](https://github.com/octavioGH25/Especializacion_Data_Science_Octavio). 
+## › REGISTRO ACADÉMICO Y CERTIFICACIONES
+*Especialización intensiva en Análisis de Datos.*
+
+| TripleTen | Enfoque | Habilidades | Repositorio |
+| :--- | :--- | :--- | :---: |
+| **Bootcamp de Data Analyst** | Análisis de Datos, Pruebas A/B, Machine Learning, SQL, Python y Tableau. | Limpieza de datos, storytelling con datos y modelado predictivo.. | [Acceder](https://github.com/octavioGH25/Especializacion_Data_Science_Octavio) |
 
 ---
 
